@@ -1,0 +1,25 @@
+body {background-color: black;
+    color: white;}
+
+    .nav-bar {background-color: black;}
+
+    .nav-link {
+        font-family: 'Quicksand', sans-serif;
+        font-size: 3vw;
+        color: white;
+        }
+
+    
+    hr {border-top: 8px solid white;
+        border-radius: 5px;
+        margin-top: 7vh;
+        margin-bottom: 3vh;}
+
+    #toptitle {margin-top: 15vh;
+                    margin-bottom: 5vh;}
+
+    .card-title {color: black;}          
+    .card-text {color:black;}
+
+    h2 {margin-top: 3vh;
+        margin-bottom: 3vh;}
