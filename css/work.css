@@ -1,13 +1,29 @@
 body {background-color: black;
     color: white;}
 
+ #name {
+        color: white;
+        font-size: 8vh;
+        
+        padding-right: 10vh;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-weight: 600;
+        }
+
+#whiteline { 
+  background-color: white;
+  height:1vh;
+width: 100%;}
+
     .nav-bar {background-color: black;}
 
-    .nav-link {
-        font-family: 'Quicksand', sans-serif;
-        font-size: 3vw;
-        color: white;
-        }
+    .navink {
+            font-family: 'Quicksand', sans-serif;
+            font-size: 3vw;
+            color: white;
+            margin-top: 15vh;
+            }
 
     
     hr {border-top: 8px solid white;
