@@ -1,9 +1,11 @@
 body {background-color: black;
     color: white;}
 
+
+
     .nav-bar {background-color: black;}
 
-    .nav-link {
+    .navink {
         font-family: 'Quicksand', sans-serif;
         font-size: 3vw;
         color: white;
