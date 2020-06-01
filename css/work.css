@@ -1,21 +1,6 @@
 body {background-color: black;
     color: white;}
 
- #name {
-        color: white;
-        font-size: 8vh;
-        
-        padding-right: 10vh;
-        text-decoration: none;
-        text-transform: uppercase;
-        font-weight: 600;
-        }
-
-#whiteline { 
-  background-color: white;
-  height:1vh;
-width: 100%;}
-
     .nav-bar {background-color: black;}
 
     .navink {
