@@ -10,10 +10,27 @@
   margin: 0px;
 }
 
-.nav-link {
+
+#name {
+        color: white;
+        font-size: 8vh;
+        
+        padding-right: 10vh;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-weight: 600;
+        }
+
+#whiteline { 
+  background-color: white;
+  height:1vh;
+width: 100%;}
+
+.navink {
             font-family: 'Quicksand', sans-serif;
             font-size: 3vw;
             color: white;
+            margin-top: 15vh;
             }
             
 span.cursor {
