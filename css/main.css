@@ -33,7 +33,7 @@ width: 100%;}
 	    font-weight: 400;
             }
             
-#ghostw {font-size: 8vh;
+#ghostw {font-size: 6vh;
 	
 	}
 
@@ -102,9 +102,9 @@ h1 {
 
   @keyframes rotateWordsFirst {
     0% { opacity: 1; animation-timing-function: linear; height: 0px; }
-    8% { opacity: 1; height: 40px; }
-    19% { opacity: 1; height: 40px; }
-	25% { opacity: 0; height: 40px; }
+    8% { opacity: 1; height: 60px; }
+    19% { opacity: 1; height: 60px; }
+	25% { opacity: 0; height: 60px; }
     100% { opacity: 0; }
 }
 
