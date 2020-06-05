@@ -27,13 +27,13 @@ width: 100%;}
 
 .navink {
             font-family: 'Quicksand', sans-serif;
-            font-size: 3vw;
+            font-size: 3vh;
             color: white;
             margin-top: 15vh;
 	    font-weight: 400;
             }
             
-#ghostw {font-size: 3.5vh;}
+#ghostw {font-size: 4vh;}
 
 span.cursor {
   border-right: .05em solid;
@@ -48,7 +48,7 @@ span.cursor {
 
 
 h1 {
-    font-size: 3.5vw;
+    
     color: white;
     text-transform: uppercase;
     margin-top: 20vh;
@@ -100,9 +100,9 @@ h1 {
 
   @keyframes rotateWordsFirst {
     0% { opacity: 1; animation-timing-function: linear; height: 0px; }
-    8% { opacity: 1; height: 3vh; }
-    19% { opacity: 1; height: 3vh; }
-	25% { opacity: 0; height: 3vh; }
+    8% { opacity: 1; height: 40px; }
+    19% { opacity: 1; height: 40px; }
+	25% { opacity: 0; height: 40px; }
     100% { opacity: 0; }
 }
 
