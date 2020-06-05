@@ -17,6 +17,7 @@
         text-decoration: none;
         text-transform: uppercase;
         font-weight: 600;
+	margin:auto;
         }
 
 #whiteline { 
@@ -30,9 +31,11 @@ width: 100%;}
             color: white;
             margin-top: 15vh;
 	    font-weight: 400;
+	margin:auto;
             }
             
-#ghostw {font-size: 4vh;}
+#ghostw {font-size: 4vh;
+	margin:auto;}
 
 span.cursor {
   border-right: .05em solid;
