@@ -33,6 +33,8 @@ width: 100%;}
             margin-top: 15vh;
             }
             
+#ghostw {height: 4vh;}
+
 span.cursor {
   border-right: .05em solid;
   animation: caret 1s steps(1) infinite;
