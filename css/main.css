@@ -17,7 +17,7 @@
         text-decoration: none;
         text-transform: uppercase;
         font-weight: 600;
-	text-align: center;
+	
 	
         }
 
@@ -32,12 +32,11 @@ width: 100%;}
             color: white;
             margin-top: 15vh;
 	    font-weight: 400;
-	text-align: center
-	
+
             }
             
 #ghostw {font-size: 4vh;
-	margin:auto;}
+	}
 
 span.cursor {
   border-right: .05em solid;
