@@ -13,7 +13,7 @@
 
 #name {
         color: white;
-        height:10vh;
+        font-size:5vh;
         padding-right: 10vh;
         text-decoration: none;
         text-transform: uppercase;
@@ -33,7 +33,7 @@ width: 100%;}
 	    font-weight: 400;
             }
             
-#ghostw {height: 8vh;}
+#ghostw {font-size: 3.5vh;}
 
 span.cursor {
   border-right: .05em solid;
@@ -48,7 +48,7 @@ span.cursor {
 
 
 h1 {
-    font-size: 4vw;
+    font-size: 3.5vw;
     color: white;
     text-transform: uppercase;
     margin-top: 20vh;
@@ -100,9 +100,9 @@ h1 {
 
   @keyframes rotateWordsFirst {
     0% { opacity: 1; animation-timing-function: linear; height: 0px; }
-    8% { opacity: 1; height: 60px; }
-    19% { opacity: 1; height: 60px; }
-	25% { opacity: 0; height: 60px; }
+    8% { opacity: 1; height: 3vh; }
+    19% { opacity: 1; height: 3vh; }
+	25% { opacity: 0; height: 3vh; }
     100% { opacity: 0; }
 }
 
