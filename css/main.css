@@ -17,7 +17,7 @@
         text-decoration: none;
         text-transform: uppercase;
         font-weight: 600;
-	
+	margin-left:30vh;
         }
 
 #whiteline { 
@@ -34,6 +34,7 @@ width: 100%;}
             }
             
 #ghostw {font-size: 4vh;
+	margin-left:30vh;
 	}
 
 span.cursor {
