@@ -28,9 +28,10 @@ width: 100%;}
 
 .navink {
             font-family: 'Quicksand', sans-serif;
-            font-size: 4.5vw;
+            font-size: 3vw;
             color: white;
             margin-top: 15vh;
+	    font-weight: 400;
             }
             
 #ghostw {height: 4vh;}
