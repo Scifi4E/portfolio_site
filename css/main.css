@@ -17,8 +17,6 @@
         text-decoration: none;
         text-transform: uppercase;
         font-weight: 600;
-	margin-right: auto;
-	margin-left:auto;
 	
         }
 
@@ -33,13 +31,11 @@ width: 100%;}
             color: white;
             margin-top: 15vh;
 	    font-weight: 400;
-	margin-right: auto;
-	margin-left:auto;
+	
             }
             
 #ghostw {font-size: 4vh;
-	margin-right: auto;
-	margin-left:auto;
+	
 	}
 
 span.cursor {
