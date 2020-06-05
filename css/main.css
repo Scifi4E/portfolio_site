@@ -17,7 +17,8 @@
         text-decoration: none;
         text-transform: uppercase;
         font-weight: 600;
-	margin:auto;
+	text-align: center;
+	
         }
 
 #whiteline { 
@@ -31,7 +32,8 @@ width: 100%;}
             color: white;
             margin-top: 15vh;
 	    font-weight: 400;
-	margin:auto;
+	text-align: center
+	
             }
             
 #ghostw {font-size: 4vh;
