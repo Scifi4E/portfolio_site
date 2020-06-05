@@ -14,7 +14,6 @@
 #name {
         color: white;
         font-size:5vh;
-        padding-right: 10vh;
         text-decoration: none;
         text-transform: uppercase;
         font-weight: 600;
@@ -31,7 +30,6 @@ width: 100%;}
             color: white;
             margin-top: 15vh;
 	    font-weight: 400;
-		margin-right:4vw;
             }
             
 #ghostw {font-size: 4vh;}
