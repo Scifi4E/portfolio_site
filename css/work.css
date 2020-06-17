@@ -15,14 +15,17 @@ body {background-color: black;
   height:1vh;
 width: 100%;}
 
+.navink {
+            font-family: 'Quicksand', sans-serif;
+            font-size: 3.5vh;
+            color: white;
+            margin-top: 15vh;
+	    font-weight: 400;
+            }
+
     .nav-bar {background-color: black;}
 
-    .navink {
-        font-family: 'Quicksand', sans-serif;
-        font-size: 3vw;
-        color: white;
-        }
-
+   
     
     hr {border-top: 8px solid white;
         border-radius: 5px;
